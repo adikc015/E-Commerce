@@ -1,6 +1,6 @@
 # Shoplane - A Place For Shoppong
 
-[Live Demo](https://shoplane.netlify.app/)
+[Live Demo](https://adikc015.github.io/E-Commerce/)
 
 This is an E-Commerce webbsite that I have created  when I was in the mid of JavaScript. I have used the HTML, CSS and JavaScript to create this project. The purpose of this project to get hands on in working with javascriptis. 
 
@@ -13,5 +13,3 @@ I have learned many new this while working on this project and also encountered 
 *This project is very intresting and challenging...*
 
 
-
-https://adikc015.github.io/E-Commerce/
